@@ -48,9 +48,8 @@ The report is structured into multiple pages, each focusing on specific areas:
 ---
 
 Screenshot / Demo
-PREVIW https://github.com/Adifajasingh/HEALTH-CARE-ANALYTICS/blob/main/SCREENSHOT%20OF%20REPORT%20PAGE%201.png
-<img width="822" height="468" alt="SCREENSHOT OF REPORT PAGE 2" src="https://github.com/user-attachments/assets/d2436206-0dff-4857-978b-4eabdaf582dd" />
 <img width="823" height="469" alt="SCREENSHOT OF REPORT PAGE 1" src="https://github.com/user-attachments/assets/c01b63cd-f2d9-4b1a-99a6-4e1ad6b89f9a" />
+<img width="822" height="468" alt="SCREENSHOT OF REPORT PAGE 2" src="https://github.com/user-attachments/assets/d2436206-0dff-4857-978b-4eabdaf582dd" />
 <img width="429" height="512" alt="SCREENSHOT OF REPORT PAGE 3" src="https://github.com/user-attachments/assets/78505515-fad2-42d4-9298-8bd203a67d44" />
 
 
