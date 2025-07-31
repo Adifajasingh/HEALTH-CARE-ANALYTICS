@@ -48,6 +48,6 @@ The report is structured into multiple pages, each focusing on specific areas:
 ---
 
 Screenshot / Demo
-PREVIW (https://github.com/Adifajasingh/HEALTH-CARE-ANALYTICS/blob/main/SCREENSHOT%20OF%20REPORT%20PAGE%201.png)
+PREVIW https://github.com/Adifajasingh/HEALTH-CARE-ANALYTICS/blob/main/SCREENSHOT%20OF%20REPORT%20PAGE%201.png
 
 
