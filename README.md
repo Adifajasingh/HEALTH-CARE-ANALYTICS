@@ -48,6 +48,6 @@ The report is structured into multiple pages, each focusing on specific areas:
 ---
 
 Screenshot / Demo
-{4F9334D9-3438-438D-9BB0-E78B7E0B3242}.png
+https://github.com/Adifajasingh/HEALTH-CARE-ANALYTICS/blob/main/SCREENSHOT%20OF%20REPORT%20PAGE%201.png
 
 
